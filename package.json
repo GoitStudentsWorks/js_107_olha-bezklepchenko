@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_JS-TechAchievers/",
+    "build": "vite build --base=/js_107_olha-bezklepchenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
